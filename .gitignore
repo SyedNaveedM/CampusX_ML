@@ -1,3 +1,4 @@
 folder.py
 *.py
 *.pyc
+*.sh
