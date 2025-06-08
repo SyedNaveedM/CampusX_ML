@@ -1,1 +1,2 @@
 Day_49_PCA_3/mnist_train.csv filter=lfs diff=lfs merge=lfs -text
+49_PCA_3/mnist_train.csv filter=lfs diff=lfs merge=lfs -text
